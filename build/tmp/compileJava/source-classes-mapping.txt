@@ -1,8 +1,8 @@
-ua/home/test_bot/TestTelegramBot.java
- ua.home.test_bot.TestTelegramBot
+ua/home/test_bot/appconfig/BotConfig.java
+ ua.home.test_bot.appconfig.BotConfig
 ua/home/test_bot/TestBotApplication.java
  ua.home.test_bot.TestBotApplication
 ua/home/test_bot/controller/WebHookController.java
  ua.home.test_bot.controller.WebHookController
-ua/home/test_bot/appconfig/BotConfig.java
- ua.home.test_bot.appconfig.BotConfig
+ua/home/test_bot/TestTelegramBot.java
+ ua.home.test_bot.TestTelegramBot
